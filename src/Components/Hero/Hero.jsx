@@ -8,7 +8,6 @@ backgroundPosition: "center",
 backgroundSize: "cover",
 width: "100%",
 height: "100%",
-opacity: "50%"
 }
  
 const Hero = () => {
