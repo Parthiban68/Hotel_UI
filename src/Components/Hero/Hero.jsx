@@ -8,13 +8,13 @@ backgroundPosition: "center",
 backgroundSize: "cover",
 width: "100%",
 height: "100%",
-opaciy: "50%"
+opacity: "50%"
 }
  
 const Hero = () => {
 
   return (
-    <div style={bgstyle} className='relative z-[-1]'>
+    <div style={bgstyle} className='relative z-[2]'>
     <div className='relative z-50'>
         <div className="container py-16 sm:py-0">
             <div className='grid grid-cols-1 sm:grid-cols-2 gap-4 place-items-center min-h-[600px]'>
